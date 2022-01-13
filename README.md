@@ -37,6 +37,6 @@ PPHUD Free CSGO Cheat was originally made for aggressive players, but was later 
 
 # Step-by-Step PPHUD CSGO Cheat:
 
-Download the archive and unpack the contents to any folder
-Launch and select Free cheats in the loader
-Select PPHUD CS:GO HACK Free and click “Launch game”
+* Download the zipped file.
+* Extract and run the executable
+* Select PPHUD CS:GO HACK Free and click “Launch game”
